@@ -2,7 +2,7 @@
 Repository containing my solutions for problems solved on Hackerearth.com
 
 
-* [#1-Cyclic Shifts](/#1-Cyclic%20Shifts/)
+* [1-Cyclic Shifts](1-Cyclic%20Shifts/)
 
 
 
